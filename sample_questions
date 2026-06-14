@@ -1,0 +1,23 @@
+# 1. Test KB Software Request & Standard Ticket Creation (KB005 -> create_ticket)
+I need to install Docker. It is not on the approved software list. Please create a ticket for me. My email is mzakria@gmail.com.
+
+# 2. Test Escalation Tool (escalate_ticket)
+Please escalate ticket [Insert Ticket ID from step 1]. I am completely blocked from working until this is installed.
+
+# 3. Test Ticket Filtering by User Email (list_tickets)
+List all tickets raised by mzakria@gmail.com.
+
+# 4. Test "No KB Match" Fallback (search_knowledge_base -> create_ticket)
+My external monitor keeps flickering and randomly turning green.
+
+# 5. Test Negative Error Handling (get_ticket_status)
+What is the status of ticket TKT-00000000?
+
+
+
+
+
+mcp dev backend/server.py
+mcp dev mcp_server.py
+npx @modelcontextprotocol/inspector 
+

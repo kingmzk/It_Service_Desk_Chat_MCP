@@ -1,0 +1,42 @@
+{
+    "INC-DA8E": {
+        "ticket_id": "INC-DA8E",
+        "title": "Docker Installation Request",
+        "description": "User needs Docker installed, but it is not on the approved software list.",
+        "user_email": "mzakria@gmail.com",
+        "priority": "medium",
+        "category": "software",
+        "status": "open",
+        "created_at": "2026-06-14T10:00:00.000Z",
+        "updated_at": "2026-06-14T10:00:00.000Z",
+        "notes": []
+    },
+    "INC-E811": {
+        "ticket_id": "INC-E811",
+        "title": "External Monitor Flickering",
+        "description": "External monitor keeps flickering and randomly turning green.",
+        "user_email": "mzakria@gmailcom",
+        "priority": "high",
+        "category": "hardware",
+        "status": "in_progress",
+        "created_at": "2026-06-14T10:15:00.000Z",
+        "updated_at": "2026-06-14T10:20:00.000Z",
+        "notes": [
+            "Escalated to high priority as user is completely blocked."
+        ]
+    },
+    "TKT-F2F42CB9": {
+        "ticket_id": "TKT-F2F42CB9",
+        "title": "Request to Install Docker (Not on Approved Software List)",
+        "description": "User has requested to install Docker, which is not currently on the approved software list. Please review and advise on approval or alternative.",
+        "user_email": "mzakria@gmail.com",
+        "priority": "high",
+        "category": "software request",
+        "status": "in_progress",
+        "created_at": "2026-06-14T13:24:53.666189",
+        "updated_at": "2026-06-14T13:25:42.388446",
+        "notes": [
+            "ESCALATED: User requires Docker installation for urgent work; not on approved software list and is currently blocked."
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+TITLE: VPN Connection Issues
+CATEGORY: Network & Remote Access
+
+If you cannot connect to the corporate VPN, follow these troubleshooting steps:
+
+1. Ensure you have an active and stable internet connection.
+2. Restart the VPN client application.
+3. Double-check that your username and password are correct. If you recently changed your password, you must update it in the VPN client.
+4. Try connecting to a different regional VPN gateway server.
+5. Restart your laptop.
+6. Verify that your system time and date are synchronized automatically. Desynced clocks can cause authentication failures.
+
+If you see a specific error code (e.g., Error 412, Error 809), please include it when raising a support ticket.

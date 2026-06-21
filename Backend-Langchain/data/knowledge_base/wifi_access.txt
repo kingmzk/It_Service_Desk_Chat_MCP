@@ -1,0 +1,11 @@
+TITLE: Connecting to the Corporate Office Wi-Fi
+CATEGORY: Network & Remote Access
+
+When working inside a corporate office, you must connect to the secure employee network:
+
+1. Select "HappiestMinds-Secure" from the list of available Wi-Fi networks.
+2. When prompted, enter your standard Windows login credentials (email and password).
+3. If asked to accept a security certificate, click "Connect" or "Accept".
+4. Do NOT connect to "HappiestMinds-Guest" with your corporate device, as it will restrict access to internal company resources.
+
+If your device repeatedly fails to authenticate, try "Forgetting" the network in your Wi-Fi settings and re-entering your credentials.

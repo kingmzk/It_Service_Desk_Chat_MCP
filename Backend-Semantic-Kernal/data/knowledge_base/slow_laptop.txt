@@ -1,0 +1,12 @@
+TITLE: Troubleshooting a Slow Laptop
+CATEGORY: Hardware & Performance
+
+If your laptop is running slowly or freezing, try the following steps before raising a ticket:
+
+1. Restart your computer. This clears the RAM and often resolves background memory leaks.
+2. Check Task Manager (Ctrl+Shift+Esc). Look for applications consuming high CPU or Memory. Close unnecessary applications.
+3. Ensure your C: drive has at least 15% free space. Clear your temporary files by running the "Disk Cleanup" utility.
+4. Check for pending Windows Updates and install them.
+5. Run a quick virus scan using Windows Defender.
+
+If the laptop continues to freeze or takes longer than 5 minutes to boot, please raise a ticket for hardware diagnostics.
